@@ -1,0 +1,15 @@
+.vs/
+Saved/*
+Binaries/*
+Build/*
+Plugins/*
+Intermediate/*
+DerivedDataCache/*
+
+*_BuiltData.uasset
+*.uproject
+*.sln
+
+Source/*
+
+
